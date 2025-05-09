@@ -1,0 +1,50 @@
+section{
+    width: 385px;
+    height: 430px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+    img {
+    width: 170px;
+    height:194px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+section {
+    width: 385px;
+    height: 430px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+    img {
+    width: 170px;
+    height:194px;
+    margin: 10px 10px 10px 10px; /* ambien se puede definir*/
+}
+section{
+width: 385px;
+height: 430px;
+border: 2px solid black;
+border-radius: 10px;
+}
+
+img {
+width: 170px;
+height:194px;
+margin: 10px; /* si el margen el igual por todos lasdos se puee definir asi*/
+}
+section{
+    width: 385px;
+    height: 430px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+    
+    img {
+    width: 170px;
+    height:194px;
+    margin: 20px 40px; /* si se necesita definir 20px al margen superior e inferior y 40px al margen izquierda y derecha,
+    se escribe asi*/
+ }

@@ -1,0 +1,18 @@
+#lineaUp {
+    text-decoration: overline; /* line arriba*/
+}
+    #lineaMid {
+    text-decoration: line-through; /*linea media o tachado*/
+    }
+    #lineaDown{
+    text-decoration: underline;/*linea a bajo o subrayado*/
+    }
+    #mayuscula{
+        text-transform: uppercase;/* letra mayúscula */
+    }
+        #minuscula {
+        text-transform: lowercase;/*letra menuscúla*/
+    } 
+        #primeraLetra {
+        text-transform: capitalize;/* primera letra*/
+    }

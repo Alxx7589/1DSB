@@ -1,0 +1,28 @@
+p{
+
+    text-align: center;
+    border: 6px solid gray;
+    padding: 15px;
+}
+section{
+    width: 345px;
+    height: 300px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+    img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    }
+    table{
+        margin-right:auto;
+        margin-left:auto;
+        border: 1px solid blue;
+    }
+        img{
+        width: 350spx;
+        height: 300px;
+        }

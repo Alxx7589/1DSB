@@ -1,0 +1,97 @@
+a{
+
+    font-family: tahoma;
+    font-size: 14px;
+    color: blue;
+}
+
+
+body {
+    font-family: tahoma;
+    font-size: 14px;
+    
+    }
+    
+    /* Color inicial */
+    a:link {
+    color: red;
+    
+    }
+
+    /* Color del enlace visitado */
+    a:visited {
+    color: green;
+    }
+    /* Color con el mouse encima del enlace */
+a:hover {
+    color: black;
+    
+    }
+    
+    /* Color del enlace seleccionado */
+    a:active {
+    color: blue;
+    }
+
+
+body{
+font-family: tahoma;
+font-size: 14px;
+}
+
+a:link {
+text-decoration: none;
+}
+
+a:visited {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a:active {
+text-decoration: underline;
+}
+
+
+body{
+    font-family: tahoma;
+    font-size: 14px;
+}
+    
+    a:link {
+    background-color: yellow;
+    }
+    
+    a:visited {
+    background-color: cyan;
+    }
+    
+    a:hover {
+    background-color: green;
+    }
+    a:active {
+        background-color: black;
+    }
+
+    body{
+        font-family: tahoma;
+        font-size: 14px;
+        
+        }
+        
+       a:link,  a:visited {
+        background-color: #FF0000;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        }
+        
+        a:hover, a:active {
+        background-color: green;
+        }
+    

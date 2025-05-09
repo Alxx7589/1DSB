@@ -1,0 +1,30 @@
+section {
+    width: 550px;
+    height: 150px;
+    border-top-style: dotted; /* borde en forma de linea consecutivas */
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+}
+section {
+    width: 550px;
+    height: 150px;
+    border-style: dotted;
+}
+section {
+    width: 550px;
+    height: 150px;
+    border: 5px solid black; /* borde de linea firme */
+}
+section {
+    width: 550px;
+    height: 150px;
+    border-left: 6px solid blue;
+    background-color: beige; /* borde del lado izquerdo */
+}
+section {
+    width: 550px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 15px; /* borde lines firme delgada*/
+}
